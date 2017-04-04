@@ -1,0 +1,36 @@
+h1 
+{
+	margin : auto;
+	width: 960px;
+	text-align: center;
+}
+
+h2 
+{
+	width : 496px;
+}
+
+p 
+{
+	width : 496px;
+}
+
+div 
+{
+width: 960px;
+margin: auto;
+padding: 10px;
+}
+    img {
+    	width: 296px;
+   float: right;
+}
+
+.contact {
+        clear: both;
+        display: inline;
+        }
+  ul
+  {
+  	list-style-type: none;
+  }
